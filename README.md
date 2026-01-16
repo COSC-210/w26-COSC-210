@@ -7,3 +7,9 @@
 ## Project proposal:
 
 
+
+## USER STORIES FOR MEMBER 1
+
+
+## USER STORIES FOR MEMBER 2
+
